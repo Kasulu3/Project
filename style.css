@@ -3,5 +3,8 @@
     text-align:center;
 }
 .p{
-    color:green
+    color:green;
+}
+*{
+    background-color: red;
 }
